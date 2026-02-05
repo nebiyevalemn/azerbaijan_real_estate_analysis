@@ -35,6 +35,3 @@ Deep dive into agency and developer performance:
 1.  **Filters:** Use the sidebar on the left to navigate between **Report**, **Location**, and **Company** views.
 2.  **Slicers:** Filter data by "Location Type", "Total Floors", or "Company" using the dropdown menus at the top.
 3.  **Interactivity:** Click on any chart element (e.g., a specific building type) to cross-filter the entire dashboard.
-
----
-*Developed by [Your Name/GitHub Username]*
